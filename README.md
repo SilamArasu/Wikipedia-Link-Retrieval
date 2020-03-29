@@ -21,4 +21,6 @@
       2. Select wordnet from the list and click 'Download' button
 
 ## How to run :
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; python3 ma1n.py *enter_your_term_here*
+```python
+  python3 main.py enter_your_term_here
+ ```
